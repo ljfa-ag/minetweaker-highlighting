@@ -1,7 +1,7 @@
 npp-minetweaker
 ===============
 
-Minetweaker syntax highlighting for Notepad++
+[Minetweaker](https://github.com/stanhebben/MineTweaker) syntax highlighting for Notepad++
 
 How to install:
 * Download the Minetweaker.xml file
